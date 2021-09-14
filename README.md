@@ -1,0 +1,1 @@
+# ThinkPadL470-OpenCoreEFI

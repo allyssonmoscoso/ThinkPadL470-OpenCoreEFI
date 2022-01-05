@@ -21,6 +21,16 @@ MacOS version: <strong>Monterey </strong>
 | Keyboard           | 6-row, spill-resistant, multimedia Fn keys, LED backlight                                                 |
 | Battery            | LNV-45N1, Lithium Ion Battery                             
 
+## Custom CPU Power Management (CPUFriend)
+
+1) Run the following script in Terminal
+
+`git clone https://github.com/corpnewt/CPUFriendFriend; cd CPUFriendFriend; chmod +x ./CPUFriendFriend.command; ./CPUFriendFriend.command`
+
+2) select preferred values
+3) copy ssdt_data.aml into /EFI/OC/ACPI/ folder.
+4) restart your thinkpad.
+
 ## Thanks to
 
 [simprecicchiani](https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore) (Original repository based)

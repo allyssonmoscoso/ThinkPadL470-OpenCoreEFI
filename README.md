@@ -21,7 +21,41 @@ MacOS version: <strong>Monterey </strong>
 | Keyboard           | 6-row, spill-resistant, multimedia Fn keys, LED backlight                                                 |
 | Battery            | LNV-45N1, Lithium Ion Battery                             
 
-## Custom CPU Power Management (CPUFriend)
+## Setup Hibernatemode & Sleep at low Battery.
+
+1)Open terminal
+
+2)Enter commands below one by one
+Settings for AC:
+
+
+`sudo pmset -c standby 1`
+
+`sudo pmset -c hibernatemode 0`
+
+Setting for battery:
+
+`sudo pmset -b standby 1`
+
+`sudo pmset -b standbydelayhigh 900`
+
+`sudo pmset -b standbydelaylow 60`
+
+`sudo pmset -b hibernatemode 25`
+
+`sudo pmset -b highstandbythreshold 70`
+
+Settings for all:
+
+`sudo pmset -a acwake 0`
+
+`sudo pmset -a lidwake 1`
+
+`sudo pmset -a powernap 0`
+
+To restore default system settings run `pmset restoredefaults` command
+
+## Custom CPU Power Management (CPUFriend).
 
 1) Run the following script in Terminal
 

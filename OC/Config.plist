@@ -763,7 +763,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.8 | SMC emulator</string>
+                    <string>V1.2.9 | SMC emulator</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -781,7 +781,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.5.7</string>
+                    <string>V1.5.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -799,7 +799,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.9 | Audio patches</string>
+                    <string>V1.7.0 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -835,7 +835,7 @@
                     <key>BundlePath</key>
                     <string>SMCBatteryManager.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.8 | Battery SMC Plugin</string>
+                    <string>V1.2.9 | Battery SMC Plugin</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -853,7 +853,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.8 | Processor SMC Plugin</string>
+                    <string>V1.2.9 | Processor SMC Plugin</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -961,7 +961,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.7 | PS2 Input for macOS</string>
+                    <string>V2.2.8 | PS2 Input for macOS</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1237,8 +1237,6 @@
                 <integer>0</integer>
                 <key>DisplayLevel</key>
                 <integer>2147483650</integer>
-                <key>LogModules</key>
-                <string></string>
                 <key>SerialInit</key>
                 <false/>
                 <key>SysReport</key>

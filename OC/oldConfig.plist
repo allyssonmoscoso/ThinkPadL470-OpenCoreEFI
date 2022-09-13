@@ -655,7 +655,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.2 | Patch engine</string>
+                    <string>V1.6.0 | Patch engine</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -763,7 +763,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0 | SMC emulator</string>
+                    <string>V1.2.8 | SMC emulator</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -781,7 +781,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.1</string>
+                    <string>V1.5.7</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -799,7 +799,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.4 | Audio patches</string>
+                    <string>V1.6.9 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -979,7 +979,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/Plugins/VoodooPS2Keyboard.kext</string>
                     <key>Comment</key>
-                    <string>PS2 Keyboard Support</string>
+                    <string>V2.2.9 | PS2 Keyboard Support</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -997,7 +997,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/Plugins/VoodooPS2Trackpad.kext</string>
                     <key>Comment</key>
-                    <string>PS2 Trackpad Support</string>
+                    <string>V2.2.9 | PS2 Trackpad Support</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>

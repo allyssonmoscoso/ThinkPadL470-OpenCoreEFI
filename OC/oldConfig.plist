@@ -609,9 +609,9 @@
                     <key>@0,display-dual-link</key>
                     <integer>1</integer>
                     <key>AAPL,ig-platform-id</key>
-                    <data>AAAWGQ==</data>
+                    <data>AAAbWQ==</data>
                     <key>device-id</key>
-                    <data>FhkAAA==</data>
+                    <data>FlkAAA==</data>
                     <key>enable-hdmi20</key>
                     <data>AQAAAA==</data>
                     <key>force-online</key>
@@ -655,7 +655,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.2 | Patch engine</string>
+                    <string>V1.6.5 | Patch engine</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -691,7 +691,7 @@
                     <key>BundlePath</key>
                     <string>BlueToolFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.3 | Intel Bluetooth driver companion for Monterey</string>
+                    <string>V2.6.6 | Intel Bluetooth driver companion for Monterey</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -745,7 +745,7 @@
                     <key>BundlePath</key>
                     <string>USBInjectAll.kext</string>
                     <key>Comment</key>
-                    <string>V0.7.8</string>
+                    <string>V0.8.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -763,7 +763,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0 | SMC emulator</string>
+                    <string>V1.3.1 | SMC emulator</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -781,7 +781,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.1</string>
+                    <string>V1.6.4</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -799,7 +799,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.5 | Audio patches</string>
+                    <string>V1.8.2 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -835,7 +835,7 @@
                     <key>BundlePath</key>
                     <string>SMCBatteryManager.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0 | Battery SMC Plugin</string>
+                    <string>V1.3.1 | Battery SMC Plugin</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -853,7 +853,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.0 | Processor SMC Plugin</string>
+                    <string>V1.3.1 | Processor SMC Plugin</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -871,7 +871,7 @@
                     <key>BundlePath</key>
                     <string>YogaSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.5.1 | YogaSMC</string>
+                    <string>V1.5.3 | YogaSMC</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -907,7 +907,7 @@
                     <key>BundlePath</key>
                     <string>VoodooRMI.kext/Contents/PlugIns/VoodooInput.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.3 | Support package for macOS input</string>
+                    <string>V1.1.4 | Support package for macOS input</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -925,7 +925,7 @@
                     <key>BundlePath</key>
                     <string>VoodooRMI.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.4 | Synaptics SMBUS touchpad support</string>
+                    <string>V1.3.5 | Synaptics SMBUS touchpad support</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -961,7 +961,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.1 | PS2 Input for macOS</string>
+                    <string>V2.3.4 | PS2 Input for macOS</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -979,7 +979,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/Plugins/VoodooPS2Keyboard.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.9 | PS2 Keyboard Support</string>
+                    <string>V2.3.4 | PS2 Keyboard Support</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -997,7 +997,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/Plugins/VoodooPS2Trackpad.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.9 | PS2 Trackpad Support</string>
+                    <string>V2.3.4 | PS2 Trackpad Support</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1015,7 +1015,7 @@
                     <key>BundlePath</key>
                     <string>HibernationFixup.kext</string>
                     <key>Comment</key>
-                    <string>V1.4.6 | Hibernation fixup</string>
+                    <string>V1.4.8 | Hibernation fixup</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1087,7 +1087,7 @@
                     <key>BundlePath</key>
                     <string>BrightnessKeys.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.2 | Brightness Keys</string>
+                    <string>V1.0.3 | Brightness Keys</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1153,6 +1153,8 @@
                 <false/>
                 <key>DisableIoMapper</key>
                 <false/>
+                <key>DisableIoMapperMapping</key>
+                <false/>
                 <key>DisableLinkeditJettison</key>
                 <true/>
                 <key>DisableRtcChecksum</key>
@@ -1206,6 +1208,8 @@
                 <integer>0</integer>
                 <key>HibernateMode</key>
                 <string>NVRAM</string>
+                <key>HibernateSkipsPicker</key>
+                <false/>
                 <key>HideAuxiliary</key>
                 <false/>
                 <key>LauncherOption</key>
@@ -1339,7 +1343,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>-v keepsyms=1</string>
+                    <string>-v keepsyms=1 lilucpu=9 igfxsklaskbl -disablegfxfirmware</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -1409,7 +1413,7 @@
                 <key>AdviseFeatures</key>
                 <true/>
                 <key>MLB</key>
-                <string>C02035600GU0000FB</string>
+                <string>C02850501GUHWVP1M</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1421,11 +1425,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro13,1</string>
+                <string>MacBookPro14,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02D96YQP3XY</string>
+                <string>C02XT0EXHV29</string>
                 <key>SystemUUID</key>
-                <string>D6C6D3F7-32A4-4319-A28C-1F69276414BD</string>
+                <string>F07850DE-5D33-4241-A33D-25E0DA41DC90</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -1615,10 +1619,14 @@
                 <false/>
                 <key>ForceResolution</key>
                 <false/>
+                <key>GopBurstMode</key>
+                <false/>
                 <key>GopPassThrough</key>
                 <string>Disabled</string>
                 <key>IgnoreTextInGraphics</key>
                 <false/>
+                <key>InitialMode</key>
+                <string>Auto</string>
                 <key>ProvideConsoleGop</key>
                 <true/>
                 <key>ReconnectGraphicsOnConnect</key>
@@ -1703,6 +1711,8 @@
                 <true/>
                 <key>ResizeGpuBars</key>
                 <integer>-1</integer>
+                <key>ResizeUsePciRbIo</key>
+                <false/>
                 <key>TscSyncTimeout</key>
                 <integer>0</integer>
                 <key>UnblockFsConnect</key>

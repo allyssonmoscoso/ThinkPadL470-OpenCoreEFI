@@ -1,8 +1,8 @@
 # Thinkpad L470 running macOS (OpenCore bootloader)
 
-OpenCore version: <strong>0.9.4</strong>
+OpenCore version: <strong>0.9.5</strong>
 <br>
-MacOS version: <strong>Ventura </strong>
+MacOS version: <strong>Monterey </strong>
 
 <summary><strong>Tested Hardware</strong></summary>
 </br>

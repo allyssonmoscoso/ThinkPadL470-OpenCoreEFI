@@ -4,6 +4,8 @@ OpenCore version: <strong>0.9.5</strong>
 <br>
 MacOS version: <strong>Monterey </strong>
 
+Note: <strong> I'll be honest, I don't think I'm going to continue to support later versions :/ </strong>
+
 <summary><strong>Tested Hardware</strong></summary>
 </br>
 

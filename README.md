@@ -67,6 +67,10 @@ To restore default system settings run `pmset restoredefaults` command
 3) copy ssdt_data.aml into /EFI/OC/ACPI/ folder.
 4) restart your thinkpad.
 
+## YogaSMC for FN keys functions and other stuffs
+
+[YogaSMC](https://github.com/zhen-zen/YogaSMC)
+
 ## Thanks to
 
 [simprecicchiani](https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore) (Original repository based)

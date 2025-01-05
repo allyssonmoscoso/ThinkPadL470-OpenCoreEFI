@@ -25,35 +25,17 @@ Note: <strong> I'll be honest, I don't think I'm going to continue to support la
 
 ## Setup Hibernatemode & Sleep at low Battery.
 
-1)Open terminal
+1. Open Terminal and navigate to the directory where the script is located.
+2. Make the script executable by running the following command:
+    ```sh
+    chmod +x configure_pmset.sh
+    ```
+3. Execute the script with the following command:
+    ```sh
+    sudo ./configure_pmset.sh
+    ```
+This will apply the power management settings as defined in the script.
 
-2)Enter commands below one by one
-Settings for AC:
-
-
-`sudo pmset -c standby 1`
-
-`sudo pmset -c hibernatemode 0`
-
-Setting for battery:
-
-`sudo pmset -b standby 1`
-
-`sudo pmset -b standbydelayhigh 900`
-
-`sudo pmset -b standbydelaylow 60`
-
-`sudo pmset -b hibernatemode 25`
-
-`sudo pmset -b highstandbythreshold 70`
-
-Settings for all:
-
-`sudo pmset -a acwake 0`
-
-`sudo pmset -a lidwake 1`
-
-`sudo pmset -a powernap 0`
 
 To restore default system settings run `pmset restoredefaults` command
 
